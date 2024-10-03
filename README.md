@@ -7,6 +7,7 @@ Business Analyst
 👋 Hi, I’m a Business Analytics master’s student at Baruch College, passionate about leveraging data to solve real-world problems. I also hold a bachelors in Business Management. My background spans in Business Development, Project Management, Site operations, and data analysis across diverse industries. Currently, I am sharpening my skills in data analysis tools such as Python, SQL, R, PowerBI and Excel. 
 
 🔧 My toolkit includes Python, SQL, PowerBi, Excel and R, and I’ve worked on projects like: 
+
 -Analyzing trends and predictive factors in job placement for recruitment firms. 
 -Developing a database management system for a school registration platform. 
 -Advising a social media client as a data analyst at Accenture and provide insights after turning raw data into meaningful insights.
